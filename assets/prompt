@@ -1,0 +1,140 @@
+Você é um roterista de tecnologia focado em back-end e eu gostaria de uma ajuda para criar 5 sugestões de nomes criativos para um podcast de back-end geek que tenha algum trocadilho nerd no nome.
+
+{REGRAS}
+> O nome deve ser enxuto, um nome e um subtítulo
+> O nome deve ter algum trocadilho nerd com temas de tranquias conhecidas como Matrix, 2001 Uma Odisseia no espado, Blade Runner, Watchmen e Ghost in the Shell
+> O nome deve conter alguma palavra forte que remeta o back-end
+
+{REGRAS NEGATIVAS}
+> Não quero que utilize no nome linguagens back-end
+
+ MatrixCache: Desvendando os Segredos do Backend
+ 
+ Backend Reloaded: Desvendando os Segredos da Programação
+ 
+ Capa do Podcast - Tess AI
+ crie um personagem masculino, como o New de Matrix, utilizando um fone de ouvido no estilo headset e um microfone de postcast com o fundo da imagem contendo as linhas de caracteres que simulam a entrada na Matrix, estilo realista
+ 
+ create a male character, like New from the Matrix, using a headset-style headset and a postcast microphone with the image background containing the lines of characters that simulate entering the Matrix, realistic style
+ 
+ 
+ 
+Você é um roterista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em back-end cujo o nome é "Backend Reloaded - Desvendando os Segredos da Programação" que tem o foco em backend com 
+
+[INTRODUÇÃO]
+[ORIGEM]
+[UNCLE BOB]
+[SIGNIFICADO]
+[PRINCIPIOS]
+[CURIOSIDADE]
+[ENCERRAMENTO]
+
+{REGRAS}
+> No bloco de [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal 'Ei Nerd', como se fossem escritos pelo Peter Jordan
+> No bloco [ORIGEM] substitua sobre origem da arquitetura SOLID e o [SIGNIFICADO] substitua pelo significado do acronimo
+> No bloco [UNCLE BOB] substitua por quem é o Tio Bob 'Uncle Bob' e como ele deu origem a arquitetura
+> No bloco [PRINCIPIOS] substitua pelos princípios da Arquitetura SOLID de forma sucinta, só para dar uma visão do principio em no máximo cinco linhas
+> No bloco [CURIOSIDADE] substitua por alguma curiosidade que a arquitetura SOLID tem no contexto de desenvolvimento de software
+> No bloco [ENCERRAMENTO] substitua por um encerramento cool com a seguinte frase de finalização "Eu sou DK-Rock e esse foi o Backend Reloaded dessa semana"
+> Utilize termos simples, para explicação para desenvolvedores junior
+> O podcast é apresentado somente por uma pessoa, de codinome DK-Rock
+> O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+> Não deve ultrapassar de cinco minutos de duração
+
+
+
+
+
+
+(Trilha sonora animada) E aí, galera! Tudo beleza? Aqui é o DK-Rock e vocês estão ligados no Backend Reloaded, o podcast que vai desvendar todos os segredos da programação! Então segura aí que hoje o papo é sobre o backend, o coração das aplicações web!
+
+[ORIGEM]
+
+Você já ouviu falar de SOLID? Sim! Estamos falando de arquitetura e não de fisíca. O SOLID, um conjunto de princípios para a arquitetura de software, nasceu da mente brilhante dos desenvolvedores que buscavam criar sistemas mais robustos e flexíveis.
+
+[UNCLE BOB]
+
+E falando em brilhante, não dá pra deixar de mencionar o Tio Bob, também conhecido como Uncle Bob, que é uma verdadeira lenda na comunidade de desenvolvimento de software. Ele foi um dos grandes responsáveis por trazer à tona a importância da arquitetura e dos princípios SOLID.
+
+[SIGNIFICADO]
+
+Mas, a final, o que é SOLID? SOLID é um acrônimo que representa cinco princípios fundamentais: Single Responsibility Principle (Princípio da Responsabilidade Única), Open/Closed Principle (Princípio Aberto/Fechado), Liskov Substitution Principle (Princípio da Substituição de Liskov), Interface Segregation Principle (Princípio da Segregação de Interfaces) e Dependency Inversion Principle (Princípio da Inversão de Dependência).
+
+[PRINCÍPIOS]
+Vamos dar uma breve descrição de cada princípio:
+    SRP (Princípio da Responsabilidade Única): Cada classe deve ter apenas uma responsabilidade, ou seja, deve ter apenas um motivo para mudar.
+
+    OCP (Princípio Aberto/Fechado): As classes devem ser abertas para extensão, mas fechadas para modificação. Ou seja, podemos adicionar novos comportamentos sem alterar o código existente.
+
+    LSP (Princípio da Substituição de Liskov): Os objetos de um programa devem ser substituíveis por instâncias de suas subclasses sem alterar a integridade do programa.
+
+    ISP (Princípio da Segregação de Interfaces): É melhor ter interfaces específicas do que uma interface genérica. Isso evita que uma classe tenha métodos que não são relevantes para ela.
+
+    DIP (Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas sim de outras abstrações.
+
+[CURIOSIDADE]
+
+Uma curiosidade interessante sobre o SOLID é que esses princípios não são apenas teoria, mas sim práticas poderosas que podem transformar a forma como desenvolvemos software, tornando-o mais fácil de entender, modificar e manter ao longo do tempo.
+
+[ENCERRAMENTO]
+
+E é isso, pessoal! Espero que tenham curtido desvendar um pouco mais dos segredos do backend com a gente aqui no Backend Reloaded. Eu sou DK-Rock e esse foi o Backend Reloaded dessa semana! Até a próxima! Keep coding!
+
+
+
+
+
+
+
+
+
+E aí, galera! Tudo beleza? Aqui é o DK-Rock e vocês estão ligados no Backend Reloaded, o podcast que vai desvendar todos os segredos da programação! Então segura aí que hoje o papo é sobre o backend, o coração das aplicações web!
+
+Você já ouviu falar de SOLID? Sim! Estamos falando de arquitetura e não de fisíca. O SOLID, um conjunto de princípios para a arquitetura de software, nasceu da mente brilhante dos desenvolvedores que buscavam criar sistemas mais robustos e flexíveis.
+
+E falando em brilhante, não dá pra deixar de mencionar o Tio Bob, também conhecido como Uncle Bob, que é uma verdadeira lenda na comunidade de desenvolvimento de software. Ele foi um dos grandes responsáveis por trazer à tona a importância da arquitetura e dos princípios SOLID.
+
+Mas, a final, o que é SOLID? SOLID é um acrônimo que representa cinco princípios fundamentais: Single Responsibility Principle (Princípio da Responsabilidade Única), Open/Closed Principle (Princípio Aberto/Fechado), Liskov Substitution Principle (Princípio da Substituição de Liskov), Interface Segregation Principle (Princípio da Segregação de Interfaces) e Dependency Inversion Principle (Princípio da Inversão de Dependência).
+
+Vamos dar uma breve descrição de cada princípio:
+    SRP (Princípio da Responsabilidade Única): Cada classe deve ter apenas uma responsabilidade, ou seja, deve ter apenas um motivo para mudar.
+
+    OCP (Princípio Aberto/Fechado): As classes devem ser abertas para extensão, mas fechadas para modificação. Ou seja, podemos adicionar novos comportamentos sem alterar o código existente.
+
+    LSP (Princípio da Substituição de Liskov): Os objetos de um programa devem ser substituíveis por instâncias de suas subclasses sem alterar a integridade do programa.
+
+    ISP (Princípio da Segregação de Interfaces): É melhor ter interfaces específicas do que uma interface genérica. Isso evita que uma classe tenha métodos que não são relevantes para ela.
+
+    DIP (Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas sim de outras abstrações.
+
+Uma curiosidade interessante sobre o SOLID é que esses princípios não são apenas teoria, mas sim práticas poderosas que podem transformar a forma como desenvolvemos software, tornando-o mais fácil de entender, modificar e manter ao longo do tempo.
+
+E é isso, pessoal! Espero que tenham curtido desvendar um pouco mais dos segredos do backend com a gente aqui no Backend Reloaded. Eu sou DK-Rock e esse foi o Backend Reloaded dessa semana! Até a próxima! Keep coding!
+
+
+E aí, galera! Tudo beleza? Aqui é o DK-Rock e vocês estão ligados no Backend Reloaded, o podcast que vai desvendar todos os segredos da programação! Então segura aí que hoje o papo é sobre o backend, o coração das aplicações web!
+
+Você já ouviu falar de SOLID? Sim! Estamos falando de arquitetura e não de física. O SOLID, um conjunto de princípios para a arquitetura de software, nasceu da mente brilhante dos desenvolvedores que buscavam criar sistemas mais robustos e flexíveis.
+
+E falando em brilhante, não dá pra deixar de mencionar o Tio Bob, também conhecido como Uncle Bob, que é uma verdadeira lenda na comunidade de desenvolvimento de software. Ele foi um dos grandes responsáveis por trazer à tona a importância da arquitetura e dos princípios SOLID.
+
+Mas, a final, o que é SOLID? SOLID é um acrônimo que representa cinco princípios fundamentais: Single Responsibility Principle (Princípio da Responsabilidade Única), Open/Closed Principle (Princípio Aberto/Fechado), Liskov Substitution Principle (Princípio da Substituição de Liskov), Interface Segregation Principle (Princípio da Segregação de Interfaces) e Dependency Inversion Principle (Princípio da Inversão de Dependência).
+
+Vamos dar um breve descritivo de cada princípio:
+    SRP (Princípio da Responsabilidade Única): Cada classe deve ter apenas uma responsabilidade, ou seja, deve ter apenas um motivo para mudar.
+
+    OCP (Princípio Aberto/Fechado): As classes devem ser abertas para extensão, mas fechadas para modificação. Ou seja, podemos adicionar novos comportamentos sem alterar o código existente.
+
+    LSP (Princípio da Substituição de Liskov): Os objetos de um programa devem ser substituíveis por instâncias de suas subclasses sem alterar a integridade do programa.
+
+    ISP (Princípio da Segregação de Interfaces): É melhor ter interfaces específicas do que uma interface genérica. Isso evita que uma classe tenha métodos que não são relevantes para ela.
+
+    DIP (Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes, mas sim de outras abstrações.
+
+Uma curiosidade interessante sobre o SOLID é que esses princípios não são apenas teoria, mas sim práticas poderosas que podem transformar a forma como desenvolvemos software, tornando-o mais fácil de entender, modificar e manter ao longo do tempo.
+
+
+
+
