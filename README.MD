@@ -17,7 +17,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Santander IA para Devs na qual participei na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA. Em [Tecnologias Utilizadas no Projeto] estão as tecnologias utilizadas para desenvolver os artefatos e o link abaixo apresenta os prompts utilizados:
-<a href="./assets/prompts.txt" title="View Prompts"> 📕Clique aqui</a> para visualizar os prompts
+<a href="https://github.com/willdkdevj/podcast_backend_reloaded/blob/main/assets/prompt" title="View Prompts"> 📕Clique aqui</a> para visualizar os prompts
 
 
 ## 💻 Tecnologias utilizadas no projeto
